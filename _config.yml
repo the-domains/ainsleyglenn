@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.9408602
+color:
+  saturation: 1
+  lightness: 0.3722197
+  brandStrength: 0.7716103
+  brandColors:
+    - '#FFFFFF'
+    - '#00B1AB'
+    - '#8CE2DF'
+    - '#43C1BF'
+    - '#71CAC9'
+  rhythmicContrast: 0.6182795
+name: 'AinsleyGlenn '

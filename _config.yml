@@ -3,12 +3,12 @@ typography_spectrum: 0.9408602
 color:
   saturation: 1
   lightness: 0.3722197
-  brandStrength: 0.7716103
+  brandStrength: 1
   brandColors:
     - '#FFFFFF'
-    - '#00B1AB'
-    - '#8CE2DF'
-    - '#43C1BF'
-    - '#71CAC9'
+    - '#03B1AA'
+    - '#B3E4E3'
+    - '#35B9B4'
+    - '#76C6C4'
   rhythmicContrast: 0.6182795
 name: 'Dysautonomia '
